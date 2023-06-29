@@ -1,9 +1,10 @@
 /*********************************************************/
-/*			UNIVERSIDAD NACIONAL DE INGENIERIA			 */
-/*	Lenguajes de Programacion   						 */
-/*       Grupo: Jose Luis Lovo Rodriguez     2021-0103U  */
-/*		        Cristian Ariel Mora Aburto   2021-0185U  */
-/*              Eduard Jose Garcia Jarquin   2021-0159U  */
+/*          UNIVERSIDAD NACIONAL DE INGENIERIA		 */
+/*	        Lenguajes de Programacion   		 */
+/*							 */
+/*    Grupo: Jose Luis Lovo Rodriguez     2021-0103U     */
+/*	     Cristian Ariel Mora Aburto   2021-0185U     */
+/*           Eduard Jose Garcia Jarquin   2021-0159U     */
 /*********************************************************/
 /****************************/
 /*        Librerias         */
